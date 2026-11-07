@@ -1,0 +1,12 @@
+{
+  "root": "D:\\gitlink",
+  "repo_url": "https://github.com/Tabernacle666/ToolShed.git",
+  "repo_dir": "D:\\gitlink\\ToolShed",
+  "project": "D:\\gitlink\\ToolShed\\ToolShedGame\\ToolShedGame.uproject",
+  "engine": "D:\\gitlink\\Engines\\UE_5.8",
+  "python": "D:\\gitlink\\Apps\\Python312\\pythonw.exe",
+  "git_name": "Tabernacle666",
+  "git_email": "154285028+Tabernacle666@users.noreply.github.com",
+  "poll_sec": 15,
+  "rc_url": "http://127.0.0.1:30010"
+}
